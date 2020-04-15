@@ -1,0 +1,49 @@
+header{
+    background-color: orange;
+    padding: 30px;
+    text-align: center;
+    line-height: 16px;
+    width: 100%;
+    background-image: url('https://occ-0-531-92.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABYjI3IGWp6ZG81rxU5Cd-iX_aTvVL9WG7bA90_LXZrwSlCBqVe0QQVG2ZT1NC2LUX7FyClUEnMxpMlY7sBnRI3oNPYzu.jpg?r=65d');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+    color: orange;
+    text-transform: uppercase;
+    text-shadow: 4px 2px 4px #000;
+   }
+
+   .col-md-6{
+    margin-top: 40px;
+   }
+.col-md-6 img{
+  margin-left: 18px;
+
+}
+
+h2{
+    text-align: center;
+}
+
+
+img{
+    width: 100%;
+}
+
+.col-md-4{
+    margin-top: 40px;
+}
+
+footer{
+    background-color: orange;
+    padding: 30px;
+    text-align: center;
+    margin-bottom:10px;
+    line-height: 16px;
+    width: 100%;
+}
